@@ -9,7 +9,7 @@ Twitter: [Arno](https://twitter.com/_0xarno_)
 
 Discord: 0xarno
 
-Code4rena Profile: [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno)
+Code4rena Profile: [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) || [https://code4rena.com/@0x6d6164616e](https://code4rena.com/@0x6d6164616e)
 
 Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.sherlock.xyz/watson/0xarno)
 
@@ -24,7 +24,7 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
 | [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) | 0 | 2 | TBC |
-| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) | 0 | 2 | TBC |
+| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) | 1 | 2 | TBC | 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 

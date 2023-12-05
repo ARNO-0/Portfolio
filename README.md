@@ -9,7 +9,7 @@ Twitter: [Arno](https://twitter.com/_0xarno_)
 
 Discord: 0xarno
 
-Code4rena Profile: [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) || [https://code4rena.com/@0x6d6164616e](https://code4rena.com/@0x6d6164616e)
+Code4rena Profile: [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) || 
 
 Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.sherlock.xyz/watson/0xarno)
 

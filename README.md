@@ -17,13 +17,16 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 
 | Overall | High risk |  Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 10 High/Medium | 2 High | 8 Medium | 2 |  
+| 15 High/Medium | 3 High | 12 Medium | 4 |  
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 ### Audit Competitions
-| Contest | High risk | Medium risk | Security report | Rank |
-|:--:|:--:|:--:|:--:| :--:|
-| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) | 1 | 4 | TBC | 18 |
+| Contest | High risk | Medium risk | Security report | Rank | Team | Profile|
+|:--:|:--:|:--:|:--:| :--:| :--:| :--:|
+| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) | 0 | 2 | TBC | 26 | YES | [https://code4rena.com/@COSMIC-BEE-REACH](https://code4rena.com/@COSMIC-BEE-REACH) |
+| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) | 1 | 2 | TBC | 18 | NO | [https://code4rena.com/@0x6d6164616e](https://code4rena.com/@0x6d6164616e) |
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 1 | 3 | TBC | 127 | NO | [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) |
+| [Canto Application](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 0 | 1 | TBC | 115 | NO | [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) |
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 

@@ -21,7 +21,7 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 ### Audit Competitions
-| Contest | High risk | Medium risk | Security report | |
+| Contest | High risk | Medium risk | Security report | Rank |
 |:--:|:--:|:--:|:--:| :--:|
 | [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) | 1 | 4 | TBC | 18 |
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>

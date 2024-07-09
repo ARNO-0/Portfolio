@@ -53,9 +53,9 @@ ZeroLend Contest [Ranked 4th](https://x.com/_0xarno_/status/1777335899829019012)
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Rank |
 |:--:|:--:|:--:|:--:| :--:|
-| [SuperForm]()| 1 | 0 | [Report]() | 9 | 
-| [3DNS]()| 2 | 1 | [Report]() | 8 | 
-| [Zerolend]()| 3 | 4 | [Report]() | 4 | 
+| [SuperForm](https://cantina.xyz/leaderboard/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)| 1 | 0 | [Report]() | 9 | 
+| [3DNS](https://x.com/_0xarno_/status/1784145130586521851)| 2 | 1 | [Report]() | 8 | 
+| [Zerolend](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407 )| 3 | 4 | [Report]() | 4 | 
 
 # Secure3  
 ### Audit Competitions

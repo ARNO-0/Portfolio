@@ -61,5 +61,5 @@ ZeroLend Contest [Ranked 4th](https://x.com/_0xarno_/status/1777335899829019012)
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Rank |
 |:--:|:--:|:--:|:--:| :--:|
-| [Glyph AMM]()| 1 | 0 | [Report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports//GlyphExchange) | 1 | 
+| [Glyph AMM](https://app.secure3.io/307fca8d6f)| 1 | 0 | [Report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports//GlyphExchange) | 1 | 
 

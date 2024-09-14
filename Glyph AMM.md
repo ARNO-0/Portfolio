@@ -1,3 +1,6 @@
+![367495409-c589c5d6-f32d-444f-9eb2-bb13a4c3836f](https://github.com/user-attachments/assets/2cbdebed-0c11-4655-a2e6-d77ca761d52a)
+
+
 ## Title
 Incorrect Identification of WETH as a Fairc20 Token Leading to Pair Creation Reversion
 

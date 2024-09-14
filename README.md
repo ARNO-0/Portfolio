@@ -33,7 +33,7 @@ ZeroLend Contest [Ranked 4th](https://x.com/_0xarno_/status/1777335899829019012)
 
 Glyph AMM Contest [Ranked 1st](https://app.secure3.io/307fca8d6f) [Report](https://github.com/ARNO-0/Portfolio/blob/main/Glyph%20AMM.md)
 
-![image](https://github.com/user-attachments/assets/c589c5d6-f32d-444f-9eb2-bb13a4c3836f)
+
 
 
 # Summary

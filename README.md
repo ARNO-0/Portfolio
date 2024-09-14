@@ -32,7 +32,7 @@ SuperForm Contest [Ranked 9th](https://x.com/_0xarno_/status/1753102561509621976
 ZeroLend Contest [Ranked 4th](https://x.com/_0xarno_/status/1777335899829019012)
 
 Glyph AMM Contest [Ranked 1st](https://app.secure3.io/307fca8d6f) [Report](https://github.com/ARNO-0/Portfolio/blob/main/Glyph%20AMM.md)
-![LeaderBoard](https://github.com/user-attachments/assets/ce008660-9292-43d9-9e18-fb785bfb4279)
+![LeaderBoard]()
 
 # Summary
 

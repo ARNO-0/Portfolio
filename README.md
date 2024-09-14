@@ -17,7 +17,7 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 
 # Highlights 
 
-Boost | Folks Finance ( Immunefi) [ranked #10](https://immunefi.com/boost/folksfinance-boost/leaderboard/)
+Boost | Folks Finance ( Immunefi ) [ranked #10](https://immunefi.com/boost/folksfinance-boost/leaderboard/)
 
 Currently ranked #23 on cantina [leaderboard](https://cantina.xyz/leaderboard) 
 

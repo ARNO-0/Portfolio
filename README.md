@@ -33,7 +33,7 @@ ZeroLend Contest [Ranked 4th](https://x.com/_0xarno_/status/1777335899829019012)
 
 Glyph AMM Contest [Ranked 1st](https://app.secure3.io/307fca8d6f) [Report](https://github.com/ARNO-0/Portfolio/blob/main/Glyph%20AMM.md)
 
-
+Sentiment V2 [Ranked 8th](https://audits.sherlock.xyz/contests/349/leaderboard) Found solo Medium by spending only 12hr on this contest
 
 
 # Summary

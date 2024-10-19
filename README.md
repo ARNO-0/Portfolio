@@ -52,9 +52,10 @@ Glyph AMM Contest [Ranked 1st](https://app.secure3.io/307fca8d6f) [Report](https
 | [Canto Application](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 0 | 1 | TBC | 115 | NO | [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) |
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 ### Audit Competitions
-| Contest | High risk | Medium risk | Security report | 
-|:--:|:--:|:--:|:--:|
-| [Allo V2](https://audits.sherlock.xyz/contests/109)| 1 | 4 | [Report](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues?q=0xarno) |
+| Contest | High risk | Medium risk | Security report |  Rank |
+|:--:|:--:|:--:|:--:| :--:|
+| [Allo V2](https://audits.sherlock.xyz/contests/109)| 1 | 4 | [Report](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues?q=0xarno) | 9 | 
+| [Sentiment V2](https://audits.sherlock.xyz/contests/349)| 0 | 2 | [Report](https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues/541) | 8 | 
 
 # Cantina  
 ### Audit Competitions

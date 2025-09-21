@@ -1,11 +1,16 @@
-# About Arno
+### Hey there, friends!
 
-Hey there friends, Arno here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Cantina ,Sherlock and Codehawks. Here, you can see some of my past findings and contest results.
+I'm **Arno**, an independent blockchain security researcher, currently active in **Cantina**, and an **Associate Security Researcher at Spearbit**.
+I specialize in **Solidity, Rust (Solana & CosmWasm), and Golang (Cosmos)**, focusing on uncovering critical vulnerabilities and strengthening Web3 security.  
 
-### Contact Information
-I am always looking for new opportunities be it a job opening, private audit/security review or simply for collaborations. Feel free to reach out via:
-Discord: 0xarno
-Twitter: [Arno](https://twitter.com/_0xarno_)
+**All-time #14 on Cantina Leaderboard**  
+
+### 🚀 Open to Collaborations  
+I'm always looking for new opportunities, whether it's **private audits, security reviews, or collaborations**. Feel free to reach out!  
+
+📌 **Discord:** 0xarno  
+📌 **Twitter:** [@_0xarno_](https://twitter.com/_0xarno_)  
+📌 **Telegram:** [Arno](https://t.me/arnovict)  
 
 Cantina Profile: [https://cantina.xyz/u/0xarno](https://cantina.xyz/u/0xarno)
 

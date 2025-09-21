@@ -15,6 +15,7 @@ I'm always looking for new opportunities, whether it's **private audits, securit
 
 
 Immunefi Profile: [https://immunefi.com/profile/arno/](https://immunefi.com/profile/arno/)
+
 Cantina Profile: [https://cantina.xyz/u/0xarno](https://cantina.xyz/u/0xarno)
 
 Code4rena Profile: [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) 

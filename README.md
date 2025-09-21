@@ -14,8 +14,6 @@ I'm always looking for new opportunities, whether it's **private audits, securit
 
 Cantina Profile: [https://cantina.xyz/u/0xarno](https://cantina.xyz/u/0xarno)
 
-Secure3 profile: [https://app.secure3.io/profile/arno](https://app.secure3.io/profile/arno)
-
 Code4rena Profile: [https://code4rena.com/@0xarno](https://code4rena.com/@0xarno) 
 
 Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.sherlock.xyz/watson/0xarno)

@@ -1,7 +1,7 @@
 ### Hey there, friends!
 
 I'm **Arno**, an independent blockchain security researcher, currently active in **Cantina**, and an **Associate Security Researcher at Spearbit**.
-I specialize in **Solidity, Rust (Solana & CosmWasm), and Golang (Cosmos)**, focusing on uncovering critical vulnerabilities and strengthening Web3 security.  
+I specialize in **Solidity, Rust (Solana), and Golang (Cosmos)**, focusing on uncovering critical vulnerabilities and strengthening Web3 security.  
 
 [**All-time #14 on Cantina Leaderboard**  ](https://cantina.xyz/leaderboard) with over $200k in winning amount
 

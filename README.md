@@ -24,7 +24,6 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 
 
 
-Of course, here is the corrected formatting for your table:
 
 ### 🔒 Contests
 

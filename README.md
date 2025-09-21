@@ -3,7 +3,8 @@
 I'm **Arno**, an independent blockchain security researcher, currently active in **Cantina**, an **Associate Security Researcher at Spearbit**, and an **All Star Senior at Immunefi**.
 I specialize in **Solidity and Rust (Solana)**, focusing on uncovering critical vulnerabilities and strengthening Web3 security.  
 
-[**All-time #14 on Cantina Leaderboard**  ](https://cantina.xyz/leaderboard) with over $200k in winning amount
+**All-time #14 on [Cantina Leaderboard](https://cantina.xyz/leaderboard)** — over **\$200k** in winnings
+
 
 ### 🚀 Open to Collaborations  
 I'm always looking for new opportunities, whether it's **private audits, security reviews, or collaborations**. Feel free to reach out!  

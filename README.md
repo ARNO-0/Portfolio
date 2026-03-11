@@ -32,7 +32,7 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 | Glyph AMM | Secure3 | **1** | *1st Position* | [Link](https://github.com/ARNO-0/Portfolio/tree/main/Reports/Glyph%20AMM) | *AMM* |
 | Ronin Network | Cantina | **2** | [*2nd Position*](https://x.com/cantinaxyz/status/1900168513022812443) | [Link](https://github.com/ARNO-0/Portfolio/tree/main/Reports/Ronin%20Report) | *Infrastructure (geth + solidity)* |
 | pump.fun | Cantina | **N/A** | [*3rd Position*](https://x.com/cantinaxyz/status/1917601418032341117) | *Private* | *Solana* |
-| Zerolend | Cantina | **7** | [*4th Position*](https://x.com/_0xarno_/status/1777335899829019012) | [Link](https://github.com/ARNO-0/Portfolio/tree/main/Reports/ZeroLend_Report) | *Lending* |
+| Zerolend | Cantina | **7** | [*4th Position*](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/overview/leaderboard) | [Link](https://github.com/ARNO-0/Portfolio/tree/main/Reports/ZeroLend_Report) | *Lending* |
 | Stability | Cantina | **2** | [*5th Position*](https://cantina.xyz/code/e1c0be8d-0c3d-485a-a446-a582beb120b1/overview/leaderboard) | [Link](https://cantina.xyz/code/2cd0b038-3e32-4db6-b488-0f85b6f0e49f/overview) | *Vault/yield* |
 | 3dns | Cantina | **3** | [*8th Position* ](https://x.com/_0xarno_/status/1784145130586521851)| [Link](https://github.com/ARNO-0/Portfolio/tree/main/Reports/3DNS_Report) | *Domain* |
 | Sentiment V2 | Sherlock | **2** | [*8th Position*](https://audits.sherlock.xyz/contests/349/leaderboard) | [Link](https://github.com/ARNO-0/Portfolio/blob/main/Reports/Sentiment%20V2_Report/report.md) | *Lending* |

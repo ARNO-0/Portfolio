@@ -48,7 +48,20 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 |      Magic Foundation  | **Spearbit/Cantina** | *March* | *Private* |
 |   Magic Foundation    | **Spearbit/Cantina**  | *June* | *Private* |
 |    Context     |**Spearbit/Cantina** | *June* | *Private* |
-|  Private     |**Spearbit/Cantina** | *August* | *Private* |
+|  Aztec Soulbound     |**Spearbit/Cantina** | *August* | *[Link](https://cantina.xyz/portfolio/57eaf415-fb41-47f3-b505-9885c6352f3f)* |
 |  Private     |**Spearbit/Cantina** | *August* | *Private* |
 |  Private     |**Spearbit/Cantina** | *September* | *Private* |
-
+|  Strata     |**Cyfrin** | *September* | *[Link](https://x.com/DevDacian/status/1983489649231503655)* |
+|  Hydrogen labs     |**Spearbit/Cantina** | *October* | *[Link](https://cantina.xyz/portfolio/f923f9cf-313a-40d7-a0fa-02906300c173)* |
+|  Private     |**Spearbit/Cantina** | *October* | *Private* |
+|  Private     |**Spearbit/Cantina** | *December* | *Private* |
+|  Private     |**Spearbit/Cantina** | *December* | *Private* |
+|  Private     |**Spearbit/Cantina** | *january* | *Private* |
+|  Aztec     |**Spearbit/Cantina** | *january* | *Private* |
+|  Private     |**Spearbit/Cantina** | *january* | *Private* |
+|  Aztec     |**Spearbit/Cantina** | *February* | *Private* |
+|  Hydrogen labs     |**Spearbit/Cantina** | *February* | *[Link](https://cantina.xyz/portfolio/97b7a988-b9b4-4487-a551-4d8e3ce308c3)* |
+|  Private     |**Spearbit/Cantina** | *February* | *Private* |
+|  Private     |**Spearbit/Cantina** | *February* | *Private* |
+|  Private     |**Spearbit/Cantina** | *February* | *Private* |
+|  Private     |**Spearbit/Cantina** | *March* | *Private* |

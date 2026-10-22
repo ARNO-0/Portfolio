@@ -1,7 +1,7 @@
 ### Hey there, friends!
 
-I'm **Arno**, an independent blockchain security researcher, currently active in **Cantina**, an **Associate Security Researcher at Spearbit**, and an **All Star Senior at Immunefi**.
-I specialize in **Solidity and Rust (Solana)**, focusing on uncovering critical vulnerabilities and strengthening Web3 security.  
+I'm **Arno**, an independent blockchain security researcher, currently working as an independent security researcher and I am also a bug bounty hunter and **All Star Senior at Immunefi**.  
+I specialize in **Solidity, Rust (Solana) and L1**, focusing on uncovering critical vulnerabilities and strengthening Web3 security.
 
 **All-time #14 on [Cantina Leaderboard](https://cantina.xyz/leaderboard)** — over **\$200k** in winnings
 
@@ -65,3 +65,8 @@ Sherlock Profile: [https://audits.sherlock.xyz/watson/0xarno](https://audits.she
 |  Private     |**Spearbit/Cantina** | *February* | *Private* |
 |  Private     |**Spearbit/Cantina** | *February* | *Private* |
 |  Private     |**Spearbit/Cantina** | *March* | *Private* |
+|  Private     |**Spearbit/Cantina** | *March* | *Private* |
+|  Private     |**Spearbit/Cantina** | *April* | *Private* |
+|  Definitive: Solana Trading     |**Spearbit/Cantina** | *May* | *Private* |
+|  Aztec     |**Spearbit/Cantina** | *May* | *Private* |
+|  Aztec     |**Spearbit/Cantina** | *May* | *Private* |
